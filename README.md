@@ -1,4 +1,4 @@
--  Hi, I’m Mohit Yadav
+-  Hi, I’m <b>Mohit Yadav</b>
 - 👀 I’m interested in ...coding
 - 🌱 I’m currently learning ...Front-end web development
 - 💞️ I’m looking to collaborate on ...codder
